@@ -13,4 +13,6 @@ public class Main {
     public void Saludo(){
     
     }
+    public void Despedida(){
+    }
 }
